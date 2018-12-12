@@ -1910,8 +1910,8 @@ footer .newsletter_form .form-control {
 }
 
 .btn-primary {
-  background-color: #f50136;
-  border: solid 1px #f50136;
+  background-color: #008238;
+  border: solid 1px #008238;
   color: #ffffff;
   -webkit-transition: all 300ms ease-in-out;
   transition: all 300ms ease-in-out;
@@ -1985,7 +1985,7 @@ Cover
   word-break: break-all;
 }
 .cover_slider .slider-content-center {
-  margin: 0 auto;
+  margin: 100px auto 0 auto;
   text-align: center;
 }
 .cover_slider .slider-content-left {
